@@ -37,7 +37,7 @@ Main repo that links to all hands-on labs, writeups, and project work
 
 ## 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- GitHub: [github.com/your-username](https://github.com/ravi-cybersec)
 
 ---
 
